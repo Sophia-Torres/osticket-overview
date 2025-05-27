@@ -22,11 +22,11 @@ This lab provides hands-on experience with **osTicket**, an open-source help des
 
 ## 🎯 LAB OBJECTIVES
 
-- Deploy and configure a cloud-based osTicket instance using Microsoft Azure
-- Instal required components (Apache, MySQL, PHP) on a virtual machine
-- Set up the osTicket environment as both an administrator and help desk user
-- Create and manage tickets, departments, and SLAs
-- Simulate real-world help desk workflows and user roles
-- Practice environment teardown and responsible cloud resource cleanup
+1) Deploy and configure a cloud-based osTicket instance using Microsoft Azure
+2) Instal required components (Apache, MySQL, PHP) on a virtual machine
+3) Set up the osTicket environment as both an administrator and help desk user
+4) Create and manage tickets, departments, and SLAs
+5) Simulate real-world help desk workflows and user roles
+6) Practice environment teardown and responsible cloud resource cleanup
 
 
