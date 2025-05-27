@@ -5,7 +5,7 @@
 
 # osTicket Help Desk Lab in Microsoft Azure
 
-<h2>## 🔍 LAB OVERVIEW</h2>
+## 🔍 LAB OVERVIEW
 
 This lab provides hands-on experience with **osTicket**, an open-source help desk ticketing system. Hosted entirely in **Microsoft Azure**, this lab simulates the daily operations of a help desk analyst and system administrator, offering a comprehensive view of ticket lifecycle management, system setup, SLAs, departments, and user interaction.
 
