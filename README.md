@@ -3,7 +3,7 @@
 </p>
 
 
-# 📩 osTicket Help Desk Lab in Microsoft Azure
+# osTicket Help Desk Lab in Microsoft Azure
 
 <h2>LAB OVERVIEW</h2>
 
@@ -11,7 +11,7 @@ This lab provides hands-on experience with **osTicket**, an open-source help des
 
 ---
 
-## 🧰 Technologies Used
+## 🧰 TECHNOLOGIES USED
 
 - Microsoft Azure (Cloud environment)
 - osTicket (Open-source ticketing platform)
@@ -20,7 +20,7 @@ This lab provides hands-on experience with **osTicket**, an open-source help des
 
 ---
 
-## 🎯 Lab Objectives
+## 🎯 LAB OBJECTIVES
 
 - Deploy and configure a cloud-based osTicket instance using Microsoft Azure
 - Instal required components (Apache, MySQL, PHP) on a virtual machine
